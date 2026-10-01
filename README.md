@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
