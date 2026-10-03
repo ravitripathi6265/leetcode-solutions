@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Sorting
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
