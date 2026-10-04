@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Backtracking
 |  |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Tree
 |  |
@@ -94,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
