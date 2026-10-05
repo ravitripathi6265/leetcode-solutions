@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0516-longest-palindromic-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Stack
