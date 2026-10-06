@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Knapsack Problem
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
