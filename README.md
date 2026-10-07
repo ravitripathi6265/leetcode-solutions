@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3407-substring-matching-pattern](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
