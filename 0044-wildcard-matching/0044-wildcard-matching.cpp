@@ -19,7 +19,7 @@ public:
            return dp[i][j] =  f(i-1,j,p,s,dp)|| 
             f(i,j-1,p,s,dp);
         }
-        return dp[i][j]=false;
+        return false;
     }
     bool isMatch(string s, string p) {
          int n = p.size();
