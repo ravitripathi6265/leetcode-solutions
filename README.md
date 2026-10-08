@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
