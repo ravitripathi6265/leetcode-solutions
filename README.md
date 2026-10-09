@@ -172,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
