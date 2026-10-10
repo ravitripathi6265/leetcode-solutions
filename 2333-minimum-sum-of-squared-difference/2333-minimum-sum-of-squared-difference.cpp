@@ -39,6 +39,7 @@ public:
                 freq[i] -= k;
                 freq[i - 1] += k;
                 k = 0;
+                break;
             }
         }
 
