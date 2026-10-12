@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 ## String Matching
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
