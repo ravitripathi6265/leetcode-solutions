@@ -96,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Tree
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Knapsack Problem
 |  |
 | ------- |
