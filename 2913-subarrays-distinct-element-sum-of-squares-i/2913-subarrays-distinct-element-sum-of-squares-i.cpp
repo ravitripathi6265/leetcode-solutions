@@ -8,10 +8,8 @@ public:
             unordered_map<int,int>m;
             for(int j = i;j<n;j++){
                 m[nums[j]]++;
-                int ct = 0;
-                for(auto &it : m){
-                 ct++;
-            }
+                int ct = m.size();
+            
             ans+= ct*ct;
 
             }
