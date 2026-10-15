@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
 ## Array
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0623-add-one-row-to-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -123,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0623-add-one-row-to-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
