@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0494-target-sum) |
@@ -175,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Common Subsequence
@@ -229,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
