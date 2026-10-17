@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Sorting
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Tree
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
