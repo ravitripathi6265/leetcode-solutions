@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Backtracking
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
