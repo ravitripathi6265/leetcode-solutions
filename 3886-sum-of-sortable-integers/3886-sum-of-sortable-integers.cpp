@@ -16,7 +16,9 @@ public:
                 mn = min(mn, nums[j]);
                 mx = max(mx, nums[j]);
 
-                int next = (j == r) ? l : j + 1;
+                int next;
+                if(j == r)next = l;
+                else next =j+1;
 
                 if (nums[j] > nums[next]) {
                     cnt++;
@@ -37,17 +39,10 @@ public:
         int n = nums.size();
         int ans = 0;
 
-        for (int k = 1; k * k <= n; k++) {
-            if (n % k == 0) {
-                if (check(nums, k)) {
-                    ans += k;
-                }
-
-                int other = n / k;
-
-                if (other != k && check(nums, other)) {
-                    ans += other;
-                }
+        for (int k = 1; k <= n; k++) {
+            
+            if(n%k == 0){
+                if(check(nums,k))ans+=k;
             }
         }
 
