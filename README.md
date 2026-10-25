@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
