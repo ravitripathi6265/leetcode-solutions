@@ -13,11 +13,11 @@ public:
 
         long long ans;
         if (grid[i][j] == 1) {
-            // forced move: entered right -> go down, entered down -> go right
+           
             if (d == 0) ans = f(i + 1, j, 1, grid, dp);
             else        ans = f(i, j + 1, 0, grid, dp);
         } else {
-            // free cell: choose right or down
+           
             ans = (f(i, j + 1, 0, grid, dp) + f(i + 1, j, 1, grid, dp)) % mod;
         }
         return dp[i][j][d] = ans;
