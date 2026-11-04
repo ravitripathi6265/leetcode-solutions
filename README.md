@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2409-count-days-spent-together](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Longest Common Subsequence
 |  |
