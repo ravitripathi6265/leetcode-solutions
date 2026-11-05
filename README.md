@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
