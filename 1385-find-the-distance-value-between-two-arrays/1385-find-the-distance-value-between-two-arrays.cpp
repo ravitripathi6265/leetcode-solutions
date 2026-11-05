@@ -4,14 +4,29 @@ public:
         int ans = 0;
         int n = arr1.size();
         int m = arr2.size();
+        sort(arr2.begin(),arr2.end());
+
         for(int i = 0;i<n;i++){
-            int f = 1;
-            for(int j = 0;j<m;j++){
-                if(abs(arr1[i] - arr2[j])<=d){
-                    f = 0;
+              int num = arr1[i];
+              bool f = true;
+              int l = 0;
+              int h=  m-1;
+              while(l<=h){
+                int m = l + (h-l)/2;
+                if(abs(num - arr2[m]) <= d){
+                     f= false;
+                     break;
                 }
-            }
-            if(f)ans++;
+                else if(num < arr2[m]){
+                    h = m-1;
+                }
+                else if(num>arr2[m]){
+                    l = m+1;
+                }
+                
+              }
+
+              if(f)ans++;
         }
         return ans;
     }
