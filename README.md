@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
@@ -392,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
