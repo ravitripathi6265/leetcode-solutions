@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
