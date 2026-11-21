@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3407-substring-matching-pattern](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
