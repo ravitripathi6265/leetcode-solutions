@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2409-count-days-spent-together](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/ravitripathi6265/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
